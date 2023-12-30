@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/736x/19/46/02/1946025607dea1432f49b3e7f0f84f3f.jpg">
 
-- 🔭 I’m currently working on **Air bnb**
+- 🔭 I’m currently working on **Air bnb Responsive Web Application**
 
 - 🌱 I’m currently learning **React js, full stack web development**
 
