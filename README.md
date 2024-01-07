@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zeba Katarki</h1>
 <h3 align="center">A Passionate MERN Stack Developer From India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/736x/19/46/02/1946025607dea1432f49b3e7f0f84f3f.jpg">
-
+<br>
 - 🔭 I’m currently working on **Air bnb Responsive Web Application**
 
 - 🌱 I’m currently learning **React js**
