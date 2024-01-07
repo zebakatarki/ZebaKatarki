@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **web development**
 
-- 📫 How to reach me **zebakatarki98@gmail.com**
+- 📫 Reach me **zebakatarki98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>        
 <p align="left">
