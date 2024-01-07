@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Zeba Katarki</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">A Passionate MERN Stack Developer From India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/736x/19/46/02/1946025607dea1432f49b3e7f0f84f3f.jpg">
 
 - 🔭 I’m currently working on **Air bnb Responsive Web Application**
 
-- 🌱 I’m currently learning **React js, full stack web development**
+- 🌱 I’m currently learning **React js**
 
 - 💬 Ask me about **web development**
 
 - 📫 How to reach me **zebakatarki98@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
 <p align="left">
-<a href="https://linkedin.com/in/Zeba Katarki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Zeba Katarki" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zeba-katarki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Zeba Katarki" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
